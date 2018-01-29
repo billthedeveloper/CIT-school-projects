@@ -1,2 +1,2 @@
-# CIT-School-Projects
-This repository contains all the programming projects i was assigned while i was in school. 
+# Employee Payroll Program
+A Visual Basic Studio 2015 C# objected oriented payroll program that calculates an employee's gross pay. 
